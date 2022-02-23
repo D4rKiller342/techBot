@@ -1,5 +1,5 @@
-test
- <html>
-   <head>
-     <title>Test</title>
-   </head>
+<html>
+ <body>
+  <p>test</p>
+ <body>
+</head>
